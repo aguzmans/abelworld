@@ -1,0 +1,17 @@
+/* 
+Theme Name: Responsive Abel
+Description: Responsive Child Theme
+Template: responsive
+Version: 0.0.1
+Author: Abel Guzman
+Author URI: http://www.abelworld.com
+License: GNU General Public License
+
+*/
+
+/* =Start From Here
+-------------------------------------------------------------- */
+/* =Reset CSS (v2.0) http://meyerweb.com/eric/tools/css/reset/
+-------------------------------------------------------------- */
+
+ @import url("../responsive/style.css");
