@@ -15,6 +15,30 @@ License: GNU General Public License
 -------------------------------------------------------------- */
 
  @import url("../responsive/style.css");
-#container {
-    
+ .search-space{
+     float: right;
+ }
+ .advert-space{
+     text-align: center;
+ }
+div#fsml_ff {
+     margin-top: 160px;
+ }
+ div#top-widget{
+    width: 100%; 
+ }
+ p iframe{
+     width: 100%;
+     height: 100%;
+ }
+ .iframe-size{
+     width: 100%;
+ }
+ #featured-content{
+     width: 40%;
+ }
+ .image-rotation-container {
+     width: 55%;
+     margin-top: 0px;
+     padding-top: 0px;
  }
